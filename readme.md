@@ -1,18 +1,13 @@
-# 👋 個人作品集 Portfolio
+# 謝育昇
+Student
 
-## 👤 關於我 About Me
-
-您好，我是【你的姓名】，目前就讀慈濟大學資訊管理學系四年級。
-
-我對資訊系統開發、資料分析與數位轉型應用有濃厚興趣，具備系統分析與實作能力，並擁有團隊合作與專案管理經驗。
-
-目前正在尋找【應徵職位名稱】相關職缺，希望能將所學應用於實務場域中。
-
----
+📍 Location, Indonesia
+📧 11143038@gms.tcu.edu.tw 
+🔗 GitHub: https://github.com/11143038-cmyk/Resume  
 
 ## 🎓 學歷 Education
 
-**慈濟大學 資訊管理學系**  
+**慈濟大學 資訊科技與管理學系**  
 2022 – 2026（預計畢業）
 
 - 主修領域：資訊系統開發、資料庫管理、資料分析
@@ -29,7 +24,6 @@
 
 ### 🔹 程式語言
 - Python
-- Java
 - HTML / CSS
 - JavaScript
 - SQL
@@ -39,13 +33,6 @@
 - Git / GitHub
 - Power BI
 - Excel 資料分析
-- Figma
-
-### 🔹 其他能力
-- 系統分析與文件撰寫
-- UML 建模
-- 專案管理
-- 團隊合作與溝通能力
 
 ---
 
@@ -104,11 +91,6 @@
 
 ---
 
-## 📬 聯絡方式 Contact
 
-- Email：yourmail@email.com  
-- 電話：09xx-xxx-xxx  
-- GitHub：https://github.com/youraccount  
-- LinkedIn：https://linkedin.com/in/youraccount  
 
 ---
