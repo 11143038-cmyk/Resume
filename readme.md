@@ -1,5 +1,4 @@
 # 謝育昇
-Student  
 
 📍 Location, Indonesia  
 📧 11143038@gms.tcu.edu.tw  
