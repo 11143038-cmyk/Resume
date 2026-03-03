@@ -4,7 +4,7 @@ Student
 📍 Location, Indonesia  
 📧 11143038@gms.tcu.edu.tw  
 🔗 GitHub: https://github.com/11143038-cmyk/Resume  
-🔗 求職信（Job Application） | 自傳（Autobiography）
+🔗 [求職信（Job Application）](./JobApplication.md) | [自傳（Autobiography）](./Autobiography.md)
 
 ## 🎓 學歷 Education
 
