@@ -48,7 +48,7 @@ Student
 **使用技術：**
 - 前端：HTML、CSS
 - 後端：Python（Flask）
-- 電腦視覺：OpenCV、MediaPipe
+- 電腦視覺：OpenCV
 - 資料庫：MySQL
 
 **系統功能：**
@@ -60,7 +60,7 @@ Student
 
 **負責內容：**
 - 系統架構設計與流程規劃
-- 使用 OpenCV 與 MediaPipe 建立姿勢辨識模型
+- 使用 OpenCV 建立姿勢辨識模型
 - 動作角度計算與判斷邏輯設計
 - MySQL 資料庫設計與串接
 - 前端畫面設計與 API 串接
