@@ -1,9 +1,9 @@
 # 謝育昇
-Student
+Student  
 
-- 📍 Location, Indonesia
-- 📧 11143038@gms.tcu.edu.tw 
-- 🔗 GitHub: https://github.com/11143038-cmyk/Resume  
+📍 Location, Indonesia  
+📧 11143038@gms.tcu.edu.tw  
+🔗 GitHub: https://github.com/11143038-cmyk/Resume  
 
 ## 🎓 學歷 Education
 
